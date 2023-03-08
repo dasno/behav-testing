@@ -1,0 +1,15 @@
+content_creations.feature:
+    Deleted:
+        copying
+        pasting
+    Changed:
+        Bad input removed first Then
+        is admin always first
+
+references.feature:
+    Deleted:
+        Input non existing tool reference to a method
+
+visiblity.feature:
+    Deleted:
+        Non published content item is not visible to a consumer
